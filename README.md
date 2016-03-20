@@ -1,4 +1,4 @@
-# SQL-DB-Backup-Check #
+# Checking when a database was last backed up #
 
 It can be useful to periodically check when each database on a server was last backed up. The easiest way to do this on a single database is to right click on the database in SQL Server Management Studio (SSMS) and looking at the top of the Database Properties page.
 
